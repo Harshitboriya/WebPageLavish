@@ -60,7 +60,7 @@ function Header() {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="/Page1" style={{ color: 'inherit' }}>
-                Version
+                Vession
               </a>
             </li>
             <li className="nav-item dropdown">
